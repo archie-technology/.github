@@ -126,3 +126,38 @@ We use **Conventional Commits** to keep commit messages readable and automated t
 
 
 Stick to these conventions so we all stay on the same page 🚀
+
+
+
+
+
+
+
+---
+
+## 🧃 Archie Tech Jargon Glossary
+
+A mix of serious terms and our team’s inside lingo. Some of these are legit process terms, others are just pure chaos and ✨vibes✨.
+
+| Term              | Meaning                                                                                   | Type            |
+|-------------------|--------------------------------------------------------------------------------------------|------------------|
+| **FOC**           | First Order Change — small, safe update that won’t break anything.                        | ✅ Official       |
+| **ZAP**           | Zero-Asset Push — deploy without extra files, assets, or surprises.                       | ✅ Official       |
+| **Design-Locked** | Figma is final and ready to dev. No more tweaks, no more "just one more icon".            | ✅ Official       |
+| **Dev-Ready**     | Fully scoped, designed, has acceptance criteria. You may now code.                        | ✅ Official       |
+| **Hotfix Mode**   | 🔥 All hands on deck. We’re fixing a prod bug NOW. Skip the dev branch.                   | ✅ Official       |
+| **Lint Rage**     | When Prettier or ESLint gaslights you for 20 minutes.                                     | 😂 Vibes         |
+| **Shadow Deploy** | Deploy quietly to staging without telling anyone... for QA ninjas only. 🥷                | ✅ Official       |
+| **Smoke Test**    | Quick test to make sure nothing exploded.                                                 | ✅ Official       |
+| **Reflow**        | When the layout shifts like jelly. Usually caused by CSS or image loading.                | ✅ Official       |
+| **Dev Freeze**    | No more merges! Only critical bugs allowed. Don’t even think about pushing. ❄️            | ✅ Official       |
+| **Confetti Push** | You just finished something major — deploy and drop some 🎉 in Slack.                     | 🎉 Vibes         |
+| **🫠 Tuesday**     | When you push on Monday and QA finds 7 bugs by Tuesday.                                   | 😵‍💫 Just Vibes   |
+| **Scope Creep**   | When the “small tweak” becomes a full rework. “It’s just one button…” 🫣                  | ✅ Official (sadly) |
+| **Figma Fog**     | That moment you forget what frame you were editing.                                       | 🤷‍♀️ Designer Vibes |
+| **Rubber Ducking**| Talking to a teammate or a literal rubber duck to debug your logic. It actually works. 🦆 | ✅ Official (and effective) |
+
+---
+
+> Want to add your own? PR to this section or drop your best lingo in `#jargon-ideas` 🧃
+
