@@ -94,4 +94,35 @@ Let's say you're working on a few different tasks:
 
 ---
 
+## 📝 Conventional Commits
+
+We use **Conventional Commits** to keep commit messages readable and automated tools effective (e.g., changelogs, semantic versioning).
+
+### 📌 Format
+
+
+### ✅ Example Commit
+
+| Type       | Purpose                                 | Example                                   |
+|------------|------------------------------------------|-------------------------------------------|
+| `feat`     | A new feature                            | `feat(auth): add login endpoint`          |
+| `fix`      | A bug fix                                | `fix(ui): resolve modal close bug`        |
+| `chore`    | Build tasks, dependencies, configs       | `chore: update Tailwind to v3`            |
+| `docs`     | Documentation changes                    | `docs(readme): add install instructions`  |
+| `refactor` | Code changes without behavior change     | `refactor: simplify validation utils`     |
+| `test`     | Adding or fixing tests                   | `test(api): improve coverage for /users`  |
+| `style`    | Formatting, semicolons, etc. (no logic)  | `style: format with Prettier`             |
+
+---
+
+### 💡 Tips
+
+- Keep the **summary under 72 characters**
+- Use the **imperative mood** (“add” not “added”)
+- Scope is optional but helpful: `feat(ui): ...`
+
+---
+
+
+
 Stick to these conventions so we all stay on the same page 🚀
