@@ -8,7 +8,7 @@ Welcome to the official GitHub organization for **Archie Technology** — a coll
 
 All of our UI/UX and branding work lives in Figma. Here are some key files:
 
-- 🧱 [Design System](https://www.figma.com/file/your-file-id-here) – base components and guidelines  
+- 🧱 [Design System](https://www.figma.com/board/zoQyZdHrHgWgvdl0qTsdEd/AEON-Gang-Flow--Copy-?node-id=0-1&t=qR0Hhe2E7tWC5jin-1) – base components and guidelines  
 - 📱 [Mobile & Desktop App UI](https://www.figma.com/design/u1KM1FnhSuXXfoHDA96CLQ/AEON-Gang-Design--Copy-?node-id=309-3167&t=IhOPei0fcz9qf038-1) – full mobile and desktop  
 
 > Don’t have access? Ask in Slack or message the project lead.
