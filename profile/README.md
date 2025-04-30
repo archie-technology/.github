@@ -22,6 +22,7 @@ Here’s a high-level view of our current repos and how to get started with them
 | Project | Description | Tech Stack | Getting Started |
 |--------|-------------|------------|-----------------|
 | [aeongang web-frontend](https://github.com/archie-technology/aeongang) | Main website | React, Vite, Tailwind | `npm install && npm run dev` |
+| [poopooville web-frontend](https://github.com/archie-technology/poopooville) | Main website | React, Vite, Tailwind | `npm install && npm run dev` |
 
 ---
 
